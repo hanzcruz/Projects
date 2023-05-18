@@ -35,7 +35,7 @@ Curated list of the projects I've done from scratch or collaborated with
  - UIKit
  - SwiftUI
 
-**Link:** This is not uploaded in the store since it is only being used as ADHOC
+**Link:** This is not uploaded in the store since it is only being used as ad hoc
 
 ### Student Portal
 ![Student Portal](https://github.com/hanzcruz/Projects/assets/78021245/6ae54b25-ca12-49bc-bde4-682e7eaed0b8)
