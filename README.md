@@ -1,31 +1,24 @@
 # Projects
 Curated list of the projects I've done from scratch or collaborated with
 
-### Really Social
-![ReallySocial](https://github.com/jhadejhade/projects/blob/master/ReallySocial.png)
+### Payments Manager+
+![Payments Manager+](https://github.com/hanzcruz/Projects/assets/78021245/1846f3ad-74cf-409a-94fb-e662b7b87428)
 
-**Progamming Language:** Swift / Kotlin \
+**Progamming Language:** Swift \
 **Architecture:** MVVM \
 **Contribution:**
- - Re-architectured from MVC to MVVM,
  - Project Maintenance
- - Added new features like takeaway orders from Facebook Chatbot, Monthly Reports, Social Media Replies
+ - Added new features like adding custom items, quick login via QR, filtering on all search features.
  - App Re-design
  
 **Stacks:**
  - UIKit
- - AVFoundation
- - Moya
- - Alamofire
- - FreshChat
- - Bugsnag
- - SwiftJson
- - Kingfisher
+ - SwiftUI
+ - CoreBluetooth
 
 
 **Links:**
- - https://apps.apple.com/us/app/really-social/id1076894608
- - https://play.google.com/store/apps/details?id=media.reallysocial.app&hl=en_AU
+ - https://apps.apple.com/za/app/payments-manager/id1638315322
  
 ### Goliaz
 ![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Goliaz.png)
@@ -69,46 +62,3 @@ Curated list of the projects I've done from scratch or collaborated with
  - Apple Pay
 
 **Link:** https://apps.apple.com/us/app/neymar-jr-comics/id1435104890
-
-### EQPay
-![ReallySocial](https://github.com/jhadejhade/projects/blob/master/EQPay.png)
-
-**Progamming Language:** Swift / Android Java \
-**Architecture:** MVC \
-**Contribution:**
- - Engineered and started project from scratch.
- 
-**Stacks:**
- - UIKit
- - AVFoundation
- - Alamofire
- - Moya
- - CoreData
- - Kingfisher
- - Stripe
- - Firebase
- - Deep Linking
-
-**Link:** Removed from the Store
-
-### Cloudstaff Tap
-![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Cloudstaff.png)
-
-**Progamming Language:** Swift / Android Java \
-**Architecture:** MVC \
-**Contribution:**
- - Updated depricated APIs.
- - Updated Swift version
- 
-**Stacks:**
- - UIKit
- - AVFoundation
- - Alamofire
- - Moya
- - CoreData
- - XML
- - Realm
-
-**Links:**
- - https://apps.apple.com/us/app/cloudstaff-tap/id1434496444
- - https://play.google.com/store/apps/details?id=com.cloudstaff.tap3&hl=en
