@@ -21,30 +21,22 @@ Curated list of the projects I've done from scratch or collaborated with
  - https://apps.apple.com/za/app/payments-manager/id1638315322
  
 ### Amina
-![Amina]!
+![Amina]
 <img src="https://github.com/hanzcruz/Projects/assets/78021245/5267799d-a43a-4bf3-b790-44de810ede15" width="200" height="400" />
 <img src="https://github.com/hanzcruz/Projects/assets/78021245/97847018-e410-4105-b857-65823a689b99" width="200" height="400" />
 <img src="https://github.com/hanzcruz/Projects/assets/78021245/d055de1a-68d7-4599-b521-4079e5ba95eb" width="200" height="400" />
 <img src="https://github.com/hanzcruz/Projects/assets/78021245/f8067a5b-2c79-4db2-940d-abcc99eff7b5" width="200" height="400" />
 
 **Progamming Language:** Swift \
-**Architecture:** VIPER \
+**Architecture:** MVVM \
 **Contribution:**
- - Project Maintenance
- - Added offline caching using local repository
- - App v2 (still under development)
+ - Develop most of the UI based from Figma
  
 **Stacks:**
  - UIKit
- - AVFoundation
- - Alamofire
- - Moya
- - CoreData
- - Kingfisher
- - Facebook SDK
- - Firebase Analytics
+ - SwiftUI
 
-**Link:** https://apps.apple.com/us/app/goliaz-bodyweight/id1209573588
+**Link:** This is not uploaded in the store since it is only being used as ADHOC
 
 ### Student Portal
 ![Student Portal](https://github.com/hanzcruz/Projects/assets/78021245/6ae54b25-ca12-49bc-bde4-682e7eaed0b8)
@@ -52,14 +44,16 @@ Curated list of the projects I've done from scratch or collaborated with
 ![classes](https://github.com/hanzcruz/Projects/assets/78021245/7c5c4eac-36cb-4cd6-a4f2-93e62eba1da9)
 
 **Progamming Language:** React \
-**Architecture:** MVC \
+**Architecture:** Standard React Project \
 **Contribution:**
- - Project Maintenance
- - Added Localizations
- - Added Facebook Login
- - Added new viewing experience on the reader
- - Fixed custom viewing experience in iOS 13
- 
+ - TypeScript
+ - Mantine UI
+ - Tailwind CSS
+ - Cloud Firestore
+ -  Auth0 
+ -  Redux
+ -   React Boilerplate
+
 **Stacks:**
  - 
 
