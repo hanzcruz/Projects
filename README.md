@@ -46,15 +46,16 @@ Curated list of the projects I've done from scratch or collaborated with
 **Progamming Language:** React \
 **Architecture:** Standard React Project \
 **Contribution:**
+ - Designing user interface
+ - Fixing bugs and testing for usability
+
+**Stacks:**
  - TypeScript
  - Mantine UI
  - Tailwind CSS
  - Cloud Firestore
- -  Auth0 
- -  Redux
- -   React Boilerplate
-
-**Stacks:**
- - 
+ - Auth0 
+ - Redux
+ - React Boilerplate
 
 **Link:** https://calm-mushroom-02b5f1600.2.azurestaticapps.net/welcome
