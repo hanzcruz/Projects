@@ -25,6 +25,7 @@ Curated list of the projects I've done from scratch or collaborated with
 ![dashboard](https://github.com/hanzcruz/Projects/assets/78021245/97847018-e410-4105-b857-65823a689b99)
 ![time-in](https://github.com/hanzcruz/Projects/assets/78021245/d055de1a-68d7-4599-b521-4079e5ba95eb)
 ![payslip](https://github.com/hanzcruz/Projects/assets/78021245/f8067a5b-2c79-4db2-940d-abcc99eff7b5)
+<img src="https://github.com/hanzcruz/Projects/assets/78021245/5267799d-a43a-4bf3-b790-44de810ede15" width="200" height="400" />
 
 **Progamming Language:** Swift \
 **Architecture:** VIPER \
@@ -62,4 +63,4 @@ Curated list of the projects I've done from scratch or collaborated with
 **Stacks:**
  - 
 
-**Link:** https://apps.apple.com/us/app/neymar-jr-comics/id1435104890
+**Link:** https://calm-mushroom-02b5f1600.2.azurestaticapps.net/welcome
