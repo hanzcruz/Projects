@@ -20,8 +20,11 @@ Curated list of the projects I've done from scratch or collaborated with
 **Links:**
  - https://apps.apple.com/za/app/payments-manager/id1638315322
  
-### Goliaz
-![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Goliaz.png)
+### Amina
+![Amina]![login](https://github.com/hanzcruz/Projects/assets/78021245/5267799d-a43a-4bf3-b790-44de810ede15)
+![dashboard](https://github.com/hanzcruz/Projects/assets/78021245/97847018-e410-4105-b857-65823a689b99)
+![time-in](https://github.com/hanzcruz/Projects/assets/78021245/d055de1a-68d7-4599-b521-4079e5ba95eb)
+![payslip](https://github.com/hanzcruz/Projects/assets/78021245/f8067a5b-2c79-4db2-940d-abcc99eff7b5)
 
 **Progamming Language:** Swift \
 **Architecture:** VIPER \
@@ -42,10 +45,12 @@ Curated list of the projects I've done from scratch or collaborated with
 
 **Link:** https://apps.apple.com/us/app/goliaz-bodyweight/id1209573588
 
-### Neymar Jr. Comics
-![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Neymar.png)
+### Student Portal
+![Student Portal](https://github.com/hanzcruz/Projects/assets/78021245/6ae54b25-ca12-49bc-bde4-682e7eaed0b8)
+![dashboard](https://github.com/hanzcruz/Projects/assets/78021245/138937c5-ceab-41ef-956a-f5e32cd09ab1)
+![classes](https://github.com/hanzcruz/Projects/assets/78021245/7c5c4eac-36cb-4cd6-a4f2-93e62eba1da9)
 
-**Progamming Language:** Objective-C \
+**Progamming Language:** React \
 **Architecture:** MVC \
 **Contribution:**
  - Project Maintenance
@@ -55,10 +60,6 @@ Curated list of the projects I've done from scratch or collaborated with
  - Fixed custom viewing experience in iOS 13
  
 **Stacks:**
- - UIKit
- - AVFoundation
- - CoreData
- - Crashlytics
- - Apple Pay
+ - 
 
 **Link:** https://apps.apple.com/us/app/neymar-jr-comics/id1435104890
