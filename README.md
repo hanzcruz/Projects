@@ -2,7 +2,7 @@
 Curated list of the projects I've done from scratch or collaborated with
 
 ### Payments Manager+
-![Payments Manager+](https://github.com/hanzcruz/Projects/assets/78021245/1846f3ad-74cf-409a-94fb-e662b7b87428)
+![Payments Manager+](https://github.com/hanzcruz/Projects/assets/78021245/7ce294a0-7138-4e7e-9625-5c1ccaa23f35)
 
 **Progamming Language:** Swift \
 **Architecture:** MVVM \
