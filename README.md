@@ -34,7 +34,6 @@ Curated list of the projects I've done from scratch or collaborated with
  - SwiftUI
  - CoreBluetooth
 
-
 **Links:**
  - https://apps.apple.com/za/app/payments-manager/id1638315322
  
