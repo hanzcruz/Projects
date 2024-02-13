@@ -2,9 +2,9 @@
 Curated list of the projects I've done from scratch or collaborated with
 
 ### Puregold Mobile
-![Puregold Mobile](https://github.com/hanzcruz/Projects/assets/78021245/898cadb2-4057-4494-be3a-d76e5318ea7d)
-![300x0w (1)](https://github.com/hanzcruz/Projects/assets/78021245/bc100e94-5116-4b78-a7a4-9c845e76df98)
-![300x0w](https://github.com/hanzcruz/Projects/assets/78021245/389feb81-ac31-4fac-9fb1-a63eaa5ad618)
+<img src="https://github.com/hanzcruz/Projects/assets/78021245/898cadb2-4057-4494-be3a-d76e5318ea7d" width="200" height="400" />
+<img src="https://github.com/hanzcruz/Projects/assets/78021245/bc100e94-5116-4b78-a7a4-9c845e76df98" width="200" height="400" />
+<img src="https://github.com/hanzcruz/Projects/assets/78021245/389feb81-ac31-4fac-9fb1-a63eaa5ad618" width="200" height="400" />
 <img src="https://github.com/hanzcruz/Projects/assets/78021245/3d8a5d00-e432-479a-a651-f7b95756cd85" width="200" height="400" />
 
 **Progamming Language:** Swift \
