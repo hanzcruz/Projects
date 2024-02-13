@@ -1,6 +1,30 @@
 # Projects
 Curated list of the projects I've done from scratch or collaborated with
 
+### Puregold Mobile
+<img src="![Puregold](https://github.com/hanzcruz/Projects/assets/78021245/af559c42-ae21-4b23-9ebd-9e26e69c4b30)
+" width="200" height="400" />
+<img src="![300x0w (1)](https://github.com/hanzcruz/Projects/assets/78021245/a6ad6f7b-93dd-4e38-b196-766e5d89330e)
+" width="200" height="400" />
+<img src="![300x0w (2)](https://github.com/hanzcruz/Projects/assets/78021245/91e4c092-381d-4ffb-9015-8f5c983b33a3)
+" width="200" height="400" />
+<img src="![300x0w](https://github.com/hanzcruz/Projects/assets/78021245/fce4bc54-767f-4ad4-b24d-77fab7599c07)
+" width="200" height="400" />
+<img src="![300x0w (3)](https://github.com/hanzcruz/Projects/assets/78021245/d4704af1-abae-4660-9deb-6b640b2667f7)
+" width="200" height="400" />
+
+**Progamming Language:** Swift \
+**Architecture:** MVC \
+**Contribution:**
+ - Project Maintenance
+ - Added new features
+ 
+**Stacks:**
+ - UIKit
+
+**Links:**
+ - https://apps.apple.com/ph/app/puregold-mobile/id1483583166
+
 ### Payments Manager+
 ![Payments Manager+](https://github.com/hanzcruz/Projects/assets/78021245/7ce294a0-7138-4e7e-9625-5c1ccaa23f35)
 
